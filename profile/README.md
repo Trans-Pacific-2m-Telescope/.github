@@ -39,9 +39,13 @@ The TCS includes several modules.
 - UI for proposal applicants/reviewers 
 
 ## TCS Software - Taiwan team
-Taiwan team (NCUIA and ASIAA) is working on hardware communication, specifically for **(1) Multi-color CCD Camera**, **(2) Telescope communication**, and **(3) UI for Observers and Engineers**.
+Taiwan team (NCUIA and ASIAA) is working on hardware communication, specifically for：
 
-### (1) The Multi-color CCD Camera control
+1. Multi-color CCD Camera 
+2. Telescope communication 
+3. UI for Observers and Engineers
+
+### 1. The Multi-color CCD Camera control
 #### Hardware Info
 - Current location: ASIAA B1, Taipai, Taiwan  
   ![Multi-color CCD Cameras group photo](./img/P_20250227_154821.jpg)
@@ -70,11 +74,11 @@ Taiwan team (NCUIA and ASIAA) is working on hardware communication, specifically
     - OS: Linux
     ![CCD Camera linux computers](./img/P_20250321_154531.jpg)
     (Image credit: An-Li Tsai)
-    - Status: In development (see [ccd](https://github.com/Trans-Pacific-2m-Telescope/ccd) for details).
+    - Status: In development.
     - Developers: Sheng-Feng Yen, Wei-Hung Liao, and An-Li Tsai
 
 
-### (2) The Telescope & Dome control
+### 2. The Telescope & Dome control
 #### Hardware Info
 - Current location: Nishimura Mfg., Shiga, Japan
 - Manufacture: Nishimura Telescope Mfg.
@@ -98,17 +102,14 @@ Taiwan team (NCUIA and ASIAA) is working on hardware communication, specifically
 #### Software Info
 - Server Software
     - OS: Linux
-    - Software: *Telescope server program* provided by Nishimura Mfg.
-    - Manual: 
-        - English version: *"National Central University 2.0m Alt-Azimuth Telescope Telescope server communication command specification"*
-        - Japanese version: *"ホスト PC－操作 PC 間 I/F 仕様書"*
+    - Software: *Telescope server program* (mentioned in Nishimura Mfg.'s document)
 - Client Software
-    - Windows Software: *"Master of Telecope"* provided by Nishimura Mfg.
+    - Windows Software: *"Master of Telescope"* (mentioned in Nishimura Mfg.'s document)
     - Linux Program: 
-        - Status: In development (see [telescope](https://github.com/Trans-Pacific-2m-Telescope/telescope) for details).
+        - Status: In development.
         - Developers: An-Li Tsai and Sheng-Feng Yen
 
-### (3) Control UI
+### 3. Control UI
 - UI mode: 
     - UI for Observers
     - UI for Engineers
