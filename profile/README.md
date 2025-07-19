@@ -102,9 +102,9 @@ Taiwan team (NCUIA and ASIAA) is working on hardware communication, specifically
 #### Software Info
 - Server Software
     - OS: Linux
-    - Software: *"Telescope server program"* (mentioned in Nishimura Mfg.'s document)
-- Client Software
-    - Windows Software: *"Master of Telescope"* (mentioned in Nishimura Mfg.'s document)
+    <!--  - Software: *"Telescope server program"* (mentioned in Nishimura Mfg.'s document) -->
+ - Client Software
+    <!--  - Windows Software: *"Master of Telescope"* (mentioned in Nishimura Mfg.'s document) -->
     - Linux Program: 
         - Status: In development.
         - Developers: An-Li Tsai and Sheng-Feng Yen
