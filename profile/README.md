@@ -40,7 +40,6 @@ The TCS includes several modules.
 
 ## TCS Software - Taiwan team
 Taiwan team (NCUIA and ASIAA) is working on hardware communication, specifically for：
-
 1. Multi-color CCD Camera 
 2. Telescope communication 
 3. UI for Observers and Engineers
