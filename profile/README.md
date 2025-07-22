@@ -1,4 +1,4 @@
-# Project Overview & Status Updates
+# Project Overview
 ## The Trans-Pacific Two-Meter (TP2m) Telescope
 
 The upcoming (2027) **Trans-Pacific Two-Meter Telescope (TP2m)** is poised to become a critical tool for **time-domain astronomy**, focusing on the observation of **transients** and **Targets of Opportunity (ToOs)**. Located at San Pedro Mártir Observatory in Mexico, it operates about three hours behind the Vera C. Rubin Observatory's LSST and eight hours ahead of **Taiwan’s Lulin One-Meter Telescope (LOT)**, forming a collaborative, **multi-time-zone network** to monitor transient events. When **LSST** detects and identifies potential targets, TP2m and LOT provide timely follow-up observations. By confirming and characterizing transient phenomena such as **supernovae, gamma-ray bursts, and kilonovae**, TP2m will make significant contributions to the global study of dynamic celestial phenomena. 
